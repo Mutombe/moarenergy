@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" fill="#1E40AF"/>
-  <path d="M16 6L8 20h8l-4 6L24 12h-8l4-6z" fill="#FFF"/>
+  <!-- Background Circle -->
+  <circle cx="16" cy="16" r="16" fill="#58595B"/>
+  
+  <!-- Main Lightning Bolt -->
+  <path d="M16 4 L10 16 L16 16 L12 28 L22 14 L16 14 L20 4 Z" fill="#F7941D"/>
+  
+  <!-- Small Gem Shape -->
+  <path d="M22 8 L24 10 L22 12 L20 10 Z" fill="#F7941D" opacity="0.8"/>
 </svg>
