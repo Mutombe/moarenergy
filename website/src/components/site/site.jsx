@@ -94,7 +94,7 @@ const LandingPage = () => {
                 <Construction className="w-8 h-8 text-[#F7941D] animate-pulse" />
                 <AlertTriangle className="w-8 h-8 text-[#F7941D] animate-pulse" />
               </div>
-              <h2 className="text-2xl font-bold text-[#F7941D]">Website Under Construction</h2>
+              <h2 className="text-2xl font-bold text-[#F7941D]">Website Under Maintanance</h2>
               <p className="text-white/80 mt-2">We're building something amazing. Check back soon!</p>
             </motion.div>
           </div>
